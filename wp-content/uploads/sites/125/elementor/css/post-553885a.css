@@ -281,11 +281,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: radial-gradient(
-    at top right,
-    #f0d268 13%,
-    var(--e-global-color-de148d6) 55%
-  );
+  background-image: radial-gradient(at top right, #000000 13%, black 55%);
 }
 .elementor-553 .elementor-element.elementor-element-e2c3ca4,
 .elementor-553
